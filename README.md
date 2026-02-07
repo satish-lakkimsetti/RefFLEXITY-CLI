@@ -23,7 +23,7 @@ RefFLEXITY-CLI is a command-line tool that lets you search the web and get AI-po
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RefFLEXITY-CLI.git
+   git clone https://github.com/satish-lakkimsetti/RefFLEXITY-CLI.git
    cd RefFLEXITY-CLI
    ```
 
