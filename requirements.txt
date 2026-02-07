@@ -1,0 +1,4 @@
+httpx
+beautifulsoup4
+readability-lxml
+pyfiglet
